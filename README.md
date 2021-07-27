@@ -7,7 +7,7 @@ https://github.com/android/architecture-samples
 
 
 This repository contains Android samples for use of following components:
-    Room
+    <br>Room
     Lifecycle-aware components
     ViewModels
     LiveData
